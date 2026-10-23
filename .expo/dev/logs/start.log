@@ -1,0 +1,50 @@
+{"_e":"root:init","_t":1792688340999,"format":"v0-jsonl","version":"57.0.32"}
+{"_e":"env:mode","_t":1792688341001,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1792688341004,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1792688341426,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1792688341975,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1792688342455,"plugins":[]}
+{"_e":"metro:instantiate","_t":1792688345765,"atlas":false,"workers":10,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1792688365050,"id":"1","platform":"android","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1792688365050,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792688365053,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792688365153,"id":"1","progress":0.056821254732287725,"total":172,"current":41}
+{"_e":"metro:bundling:progress","_t":1792688365253,"id":"1","progress":0.27555610666776886,"total":381,"current":200}
+{"_e":"metro:bundling:progress","_t":1792688365353,"id":"1","progress":0.6672805635997223,"total":486,"current":397}
+{"_e":"metro:bundling:progress","_t":1792688365453,"id":"1","progress":0.7326911692618417,"total":611,"current":523}
+{"_e":"metro:bundling:progress","_t":1792688365558,"id":"1","progress":0.9943262525826447,"total":704,"current":702}
+{"_e":"metro:bundling:progress","_t":1792688365668,"id":"1","progress":0.9971611086002066,"total":704,"current":703}
+{"_e":"metro:bundling:progress","_t":1792688366021,"id":"1","progress":0.999,"total":704,"current":704}
+{"_e":"metro:bundling:progress","_t":1792688366121,"id":"1","progress":0.999,"total":712,"current":706}
+{"_e":"metro:bundling:progress","_t":1792688366221,"id":"1","progress":0.999,"total":840,"current":785}
+{"_e":"metro:bundling:progress","_t":1792688366321,"id":"1","progress":0.999,"total":878,"current":803}
+{"_e":"metro:bundling:progress","_t":1792688366421,"id":"1","progress":0.999,"total":932,"current":853}
+{"_e":"metro:bundling:progress","_t":1792688366522,"id":"1","progress":0.999,"total":955,"current":874}
+{"_e":"metro:bundling:progress","_t":1792688366623,"id":"1","progress":0.999,"total":955,"current":875}
+{"_e":"metro:bundling:progress","_t":1792688366728,"id":"1","progress":0.999,"total":1002,"current":951}
+{"_e":"metro:bundling:progress","_t":1792688366808,"id":"1","progress":0.999,"total":1002,"current":952}
+{"_e":"metro:bundling:progress","_t":1792688366909,"id":"1","progress":0.999,"total":1014,"current":1011}
+{"_e":"metro:bundling:progress","_t":1792688367212,"id":"1","progress":0.999,"total":1014,"current":1012}
+{"_e":"metro:bundling:done","_t":1792688367311,"id":"1","total":1014,"ms":2260.5428}
+{"_e":"metro:client_log","_t":1792688374387,"level":"error","data":["Gagal menginisialisasi database:","[RangeError: Maximum call stack size exceeded]"]}
+{"_e":"metro:client_log","_t":1792688374573,"level":"error","data":["[Error: Couldn't register the navigator. Have you wrapped your app with 'NavigationContainer'?\n\nThis can also happen if there are multiple copies of '@react-navigation' packages installed.]"]}
+{"_e":"metro:client_log","_t":1792688427285,"level":"error","data":["Gagal menginisialisasi database:","[RangeError: Maximum call stack size exceeded]"]}
+{"_e":"metro:client_log","_t":1792688427414,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}
+{"_e":"metro:client_log","_t":1792688429701,"level":"error","data":["[Error: Uncaught (in promise, id: 0): \"Error: Call to function 'NativeDatabase.prepareAsync' has been rejected.\n→ Caused by: Error code \u0001: no such table: damage_reports\"]"]}
+{"_e":"metro:client_log","_t":1792688429969,"level":"error","data":["[Error: Uncaught (in promise, id: 1): \"Error: Call to function 'NativeDatabase.prepareAsync' has been rejected.\n→ Caused by: Error code \u0001: no such table: damage_reports\"]"]}
+{"_e":"metro:client_log","_t":1792688441686,"level":"error","data":["[Error: Uncaught (in promise, id: 2): \"Error: Call to function 'NativeDatabase.prepareAsync' has been rejected.\n→ Caused by: Error code \u0001: no such table: damage_reports\"]"]}
+{"_e":"metro:client_log","_t":1792688465527,"level":"error","data":["[Error: Uncaught (in promise, id: 3): \"Error: Call to function 'NativeDatabase.prepareAsync' has been rejected.\n→ Caused by: Error code \u0001: no such table: damage_reports\"]"]}
+{"_e":"metro:client_log","_t":1792688465579,"level":"error","data":["[Error: Uncaught (in promise, id: 4): \"Error: Call to function 'NativeDatabase.prepareAsync' has been rejected.\n→ Caused by: Error code \u0001: no such table: damage_reports\"]"]}
+{"_e":"metro:client_log","_t":1792688466548,"level":"error","data":["[Error: Uncaught (in promise, id: 5): \"Error: Call to function 'NativeDatabase.prepareAsync' has been rejected.\n→ Caused by: Error code \u0001: no such table: categories\"]"]}
+{"_e":"metro:client_log","_t":1792688540326,"level":"log","data":["Database berhasil diinisialisasi"]}
+{"_e":"metro:bundling:started","_t":1792689170634,"id":"g","platform":"android","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1792689170635,"id":"g","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1792689170666,"id":"g","total":1,"ms":31.7564}
+{"_e":"metro:client_log","_t":1792689178677,"level":"log","data":["Database berhasil diinisialisasi"]}
+{"_e":"metro:client_log","_t":1792689178677,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}
+{"_e":"metro:bundling:started","_t":1792689408871,"id":"j","platform":"android","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1792689408871,"id":"j","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792689408873,"id":"j","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1792689408935,"id":"j","total":1,"ms":63.93}
+{"_e":"metro:client_log","_t":1792689414245,"level":"log","data":["Database berhasil diinisialisasi"]}
+{"_e":"metro:client_log","_t":1792689414445,"level":"warn","data":["SafeAreaView has been deprecated and will be removed in a future release. Please use 'react-native-safe-area-context' instead. See https://github.com/AppAndFlow/react-native-safe-area-context"]}

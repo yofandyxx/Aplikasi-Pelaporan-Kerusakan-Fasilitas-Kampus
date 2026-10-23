@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "PPNP Maintenance",
+    "slug": "ppnp-maintenance",
+    "version": "1.0.0",
+    "orientation": "default",
+    "scheme": "ppnp-maintenance",
+    "userInterfaceStyle": "light",
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.ppnp.maintenance"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ppnp.maintenance"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
